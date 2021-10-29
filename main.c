@@ -41,7 +41,7 @@ void printArray(int *array, int length) {
 }
 
 int main() {
-    int exmp[SIZE] = { 41, 2, 3, 10, 5, 4, 31, 20 };
+    int exmp[SIZE] = {41, 2, 3, 10, 5, 4, 31, 20};
 
     // before sorting
     printArray(exmp, SIZE);
